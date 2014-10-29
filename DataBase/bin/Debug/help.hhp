@@ -1,0 +1,27 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=help.hhc
+Default topic=E:\Справка\struc.htm
+Display compile progress=No
+Language=0x419 Русский
+
+
+[FILES]
+struc.htm
+search.htm
+del2.htm
+del.htm
+ed2.htm
+ed.htm
+file.htm
+help.htm
+helper.htm
+index.htm
+new2.htm
+new.htm
+report.htm
+save.htm
+
+[INFOTYPES]
+

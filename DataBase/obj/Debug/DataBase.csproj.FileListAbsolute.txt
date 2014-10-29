@@ -1,0 +1,100 @@
+E:\C# & Delphi\BD\DataBase\bin\Debug\DataBase.exe
+E:\C# & Delphi\BD\DataBase\bin\Debug\DataBase.pdb
+E:\C# & Delphi\BD\DataBase\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.Form1.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.exe
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.pdb
+E:\C# & Delphi\BD\DataBase\bin\Debug\DataBase.exe.config
+E:\C# & Delphi\BD\DataBase\bin\Debug\Database.mdf
+E:\C# & Delphi\BD\DataBase\bin\Debug\Database_log.ldf
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormAbout.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormStyleHelper.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormCompanyHelper.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormCountryHelper.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormStatusHelper.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormSong.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormMemGroup.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormSearch.resources
+E:\C# & Delphi\BD\DataBase\obj\Debug\DataBase.FormReport.resources
+K:\BD\DataBase\bin\Debug\DataBase.exe.config
+K:\BD\DataBase\obj\Debug\DataBase.exe
+K:\BD\DataBase\obj\Debug\DataBase.pdb
+K:\BD\DataBase\bin\Debug\Database.mdf
+K:\BD\DataBase\bin\Debug\Database_log.ldf
+K:\BD\DataBase\bin\Debug\DataBase.exe
+K:\BD\DataBase\bin\Debug\DataBase.pdb
+K:\BD\DataBase\obj\Debug\ResolveAssemblyReference.cache
+K:\BD\DataBase\obj\Debug\DataBase.Form1.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormAbout.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormCompanyHelper.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormCountryHelper.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormMemGroup.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormReport.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormSearch.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormSong.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormStatusHelper.resources
+K:\BD\DataBase\obj\Debug\DataBase.FormStyleHelper.resources
+K:\BD\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+K:\BD\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\DataBase.exe.config
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.exe
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.pdb
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\Database.mdf
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\Database_log.ldf
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\DataBase.exe
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\DataBase.pdb
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormAbout.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormCompanyHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormCountryHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormMemGroup.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormReport.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormSearch.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormSong.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormStatusHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormStyleHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\DataBase.exe.config
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.exe
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.pdb
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\Database.mdf
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\Database_log.ldf
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\DataBase.exe
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\bin\Debug\DataBase.pdb
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormAbout.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormCompanyHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormCountryHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormMemGroup.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormReport.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormSearch.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormSong.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormStatusHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.FormStyleHelper.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Documents and Settings\Настя\УЧЁБА =)))\3 курс\1 семестр\Базы данных\Курсовая работа\BD\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+E:\C# & Delphi\DataBase\bin\Debug\DataBase.exe.config
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.exe
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.pdb
+E:\C# & Delphi\DataBase\bin\Debug\Database.mdf
+E:\C# & Delphi\DataBase\bin\Debug\Database_log.ldf
+E:\C# & Delphi\DataBase\bin\Debug\DataBase.exe
+E:\C# & Delphi\DataBase\bin\Debug\DataBase.pdb
+E:\C# & Delphi\DataBase\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.Form1.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormAbout.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormCompanyHelper.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormCountryHelper.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormMemGroup.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormReport.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormSearch.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormSong.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormStatusHelper.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.FormStyleHelper.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\C# & Delphi\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
